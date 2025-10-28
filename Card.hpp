@@ -78,7 +78,7 @@ public:
 
   //EFFECTS Initializes Card to the Two of Spades
   Card();
-
+  
   //EFFECTS Initializes Card to specified rank and suit
   Card(Rank rank_in, Suit suit_in);
 
